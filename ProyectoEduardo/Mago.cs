@@ -7,7 +7,7 @@ class Mago : Personaje, IHabilidadEspecial
 
     public override void Ataque(Personaje objetivo)
     {
-        System.Console.WriteLine($"{Nombre} lanzó una bola de fuego a {objetivo.Nombre}");
+        System.Console.WriteLine($"{nombre} lanzó una bola de fuego a {objetivo.nombre}");
         objetivo.RecibirDano(15);
     }
 
@@ -15,7 +15,7 @@ class Mago : Personaje, IHabilidadEspecial
     {
         PuntosVida += 30;
         if (PuntosVida > 100) PuntosVida = 100;
-        System.Console.WriteLine($"{Nombre} regeneró 30 puntos de vida, su vida actual es {PuntosVida}");
+        System.Console.WriteLine($"{nombre} regeneró 30 puntos de vida, su vida actual es {PuntosVida}");
 
 
     }

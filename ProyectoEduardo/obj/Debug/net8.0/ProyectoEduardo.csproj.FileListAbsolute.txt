@@ -1,0 +1,15 @@
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\bin\Debug\net8.0\ProyectoEduardo.exe
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\bin\Debug\net8.0\ProyectoEduardo.deps.json
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\bin\Debug\net8.0\ProyectoEduardo.runtimeconfig.json
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\bin\Debug\net8.0\ProyectoEduardo.dll
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\bin\Debug\net8.0\ProyectoEduardo.pdb
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\ProyectoEduardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\ProyectoEduardo.AssemblyInfoInputs.cache
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\ProyectoEduardo.AssemblyInfo.cs
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\ProyectoEduardo.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\ProyectoEduardo.sourcelink.json
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\ProyectoEduardo.dll
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\refint\ProyectoEduardo.dll
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\ProyectoEduardo.pdb
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\ProyectoEduardo.genruntimeconfig.cache
+C:\Users\luisc\Downloads\SOLID\SOLID\ProyectoEduardo\obj\Debug\net8.0\ref\ProyectoEduardo.dll
