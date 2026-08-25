@@ -1,21 +1,21 @@
 abstract class Personaje
 {
-    public string Nombre { get; private set; }
+    public string nombre { get; private set; }
     public int PuntosVida { get; protected set; }
 
     public bool EstadoVida { get { return PuntosVida > 0; } }
 
-    public Personaje(string Nombre)
+    public Personaje(string nombre)
     {
-        Nombre = Nombre;
+        this.nombre = nombre;
         PuntosVida = 100;
     }
 
-    public void RecibirDano(int Cantidad)
+    public void RecibirDano(int cantidad)
     {
-        PuntosVida -= Cantidad;
+        PuntosVida -= cantidad;
         if (PuntosVida < 0) PuntosVida = 0;
-        System.Console.WriteLine($"{Nombre} Recibio un daño de {Cantidad}, sus puntos de vida es: {PuntosVida}");
+        System.Console.WriteLine($"{nombre} Recibio un daño de {cantidad}, sus puntos de vida es: {PuntosVida}");
 
     }
 

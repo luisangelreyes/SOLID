@@ -1,6 +1,6 @@
 class Guerrero : Personaje
 {
-    public Guerrero(string nombre) : base(this.nombre)
+    public Guerrero(string nombre) : base(nombre)
     {
 
     }
