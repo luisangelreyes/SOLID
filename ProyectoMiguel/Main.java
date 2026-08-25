@@ -1,10 +1,10 @@
 public class Main {
-    public static void main(String[] arg){
+    public static void main(String[] arg) {
         Piston miPiston = new Piston();
         Lampara miLampara = new Lampara();
         Puerta miPuerta = new Puerta();
-        BLoqueMusical miBLoqueMusical = new BloqueMusical();
-        
+        BloqueMusical miBLoqueMusical = new BloqueMusical();
+
         System.out.println("Se activa la palanca");
 
         miPiston.activar();
@@ -19,18 +19,16 @@ public class Main {
         miPuerta.desactivar();
         miBLoqueMusical.desactivar();
 
-    Zombie unZombie = new Zombie();
-    Esqueleto unEsqueleto = new Esqueleto();
+        Zombie unZombie = new Zombie();
+        Esqueleto unEsqueleto = new Esqueleto();
 
-    miZombie.quemarLava();
-    miEsqueleto.quemarLava();
-    
+        unZombie.quemarLava();
+        unEsqueleto.quemarLava();
 
-    System.out.println("Zombie te golpeó");
-    unZombie.atacar();
-    System.out.println("Esqueleto te dispara una flecha");
-    unEsqueleto.atacar();
+        System.out.println("Zombie te golpeó");
+        unZombie.atacar();
+        System.out.println("Esqueleto te dispara una flecha");
+        unEsqueleto.atacar();
     }
 
-    
 }

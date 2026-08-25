@@ -1,9 +1,10 @@
 public class Piston implements ActivablePorRedstone {
-    @override
+    @Override
     public void activar() {
         System.out.println("Piston se activa, piston de extiende");
     }
-    @override
+
+    @Override
     public void desactivar() {
         System.out.println("Piston se desactiva, piston se retrae");
     }

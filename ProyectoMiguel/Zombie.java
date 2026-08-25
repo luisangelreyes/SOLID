@@ -1,9 +1,10 @@
-public class zombie extends MobHostil{
+public class Zombie extends MobHostil {
     public Zombie() {
-        super("Zombie",20);
+        super("Zombie", 20);
     }
-    @override
-    void atacar(){
+
+    @Override
+    public void atacar() {
         System.out.println("Zombie te ataca con sus puños");
     }
 }

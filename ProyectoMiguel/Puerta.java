@@ -1,10 +1,11 @@
 public class Puerta implements ActivablePorRedstone {
-    @override
+    @Override
     public void activar() {
         System.out.println("Puerta se activa y se abre");
     }
-    @override
-    public void desactivar(){
+
+    @Override
+    public void desactivar() {
         System.out.println("Puerta se desactiva y se cierra");
     }
 }
