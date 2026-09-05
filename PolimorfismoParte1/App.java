@@ -1,5 +1,4 @@
-package ProyectoMateos;
-
+package PolimorfismoParte1;
 
 public class App {
     public static void main(String[] args) {
@@ -9,7 +8,7 @@ public class App {
         MetodoPago paypal = new PayPal("mateos26239@gmail.com");
         MetodoPago contado = new Contado(true);
         caja.cobrar(paypal, 500);
-        caja.cobrar(tarjeta,300);
+        caja.cobrar(tarjeta, 300);
         caja.cobrar(contado, 500);
     }
 }
