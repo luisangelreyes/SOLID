@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisc\\Downloads\\SOLID\\SOLID\\ProyectoEduardo\\ProyectoEduardo.csproj",
+      "projectUniqueName": "C:\\Users\\luisc\\Downloads\\SOLID\\SOLID\\ClasesParte1\\ProyectoEduardo.csproj",
       "projectName": "ProyectoEduardo",
-      "projectPath": "C:\\Users\\luisc\\Downloads\\SOLID\\SOLID\\ProyectoEduardo\\ProyectoEduardo.csproj",
+      "projectPath": "C:\\Users\\luisc\\Downloads\\SOLID\\SOLID\\ClasesParte1\\ProyectoEduardo.csproj",
       "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisc\\Downloads\\SOLID\\SOLID\\ProyectoEduardo\\obj\\",
+      "outputPath": "C:\\Users\\luisc\\Downloads\\SOLID\\SOLID\\ClasesParte1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config",
