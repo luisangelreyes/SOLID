@@ -1,0 +1,15 @@
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\bin\Debug\net8.0\OCP.exe
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\bin\Debug\net8.0\OCP.deps.json
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\bin\Debug\net8.0\OCP.runtimeconfig.json
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\bin\Debug\net8.0\OCP.dll
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\bin\Debug\net8.0\OCP.pdb
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\OCP.AssemblyInfoInputs.cache
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\OCP.AssemblyInfo.cs
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\OCP.sourcelink.json
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\OCP.dll
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\refint\OCP.dll
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\OCP.pdb
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\OCP.genruntimeconfig.cache
+C:\Users\luisc\Downloads\SOLID\SOLID\OpenClose_Part1\OCP\obj\Debug\net8.0\ref\OCP.dll
