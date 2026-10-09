@@ -1,16 +1,11 @@
 public class Caja {
-    public double calcularPrecio(String tipoBebida, double precioBebida) {
+    public double calcularPrecio(String tipoBebida, double monto) {
         if (tipoBebida.equals("agua")) {
-            return precioBebida;
-        } else if(tipoBebida.equals("refresco")){
-            return precioBebida * 1.16;
-        } else if(tipoBebida.equals("cerveza")) {
-            return precioBebida * 1.16 * 1.25;
-        } else if(tipoBebida.equals("tepache")){
-            return precioBebida * 1.16;
+            return monto + 0.5;
+        } else if (tipoBebida.equals("refresco")) {
+            return monto + 1.0;
         } else {
-            throw new IllegalArgumentException("Ta mal");
+            return monto;
         }
-
     }
 }
